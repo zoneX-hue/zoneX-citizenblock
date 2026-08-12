@@ -1,22 +1,24 @@
+Características:
+► Efecto anti-disparos a la cabeza
+► Efecto anti-muerte
+► Efecto anti-sangre
+► Anti-hitbox ampliado
+► Anti-eliminación de agua
+► Anti-eliminación de arbustos, árboles y cactus
+► Anti-modificador de daño
+► Anti-clima
+► Anti-día y noche
+Descripción detallada:
+Dado que algunos jugadores han descubierto la posibilidad de modificar los archivos del juego para obtener ventajas, por ejemplo, en un tiroteo, como un efecto de muerte tipo rayos X o la visión diurna cuando los demás jugadores tienen visión nocturna, esto les proporciona una ventaja de visibilidad.
 
-# To keep up to date with updates, join our discord: https://discord.gg/936a4erUTh
+Por eso hemos creado un bloqueo para este tipo de actividad, para evitar trampas "legales".
 
-### WHATS IS IT:
-- [x] Anti Headshot Effect
-- [x] Anti Kill Effect
-- [x] Anti Blood Effect
-- [x] Anti Hitbox
-- [x] Anti Delete Water
-- [x] Anti Delete Bushes, Trees, Cactus
-- [x] Anti Damage Modifier
-- [x] Anti Weather
-- [x] Anti Day on Night
+Archivos:
+Lua:
+Anti-Hitbox: Con las modificaciones en los archivos, se puede ampliar el hitbox del personaje, lo que proporciona una ventaja al disparar. Es posible activar un baneo automático.
 
-#
-> ### ANTI-PROPS
-OF THE WHOLE RESOURCE, THE BIGGEST WEIGHTS ARE THE PROPS IF YOU DON'T WANT TO BLOCK THEM REMOVE ALL FILES FROM THE STREAM FOLDER EXCEPT `fxdecal.ytd`
-#
+Archivos YDR y YTD:
+Anti-eliminación de arbustos, árboles y cactus - En Citizen, se pueden eliminar estos objetos, por lo que, para evitarlo, hemos decidido retransmitirlos para que el jugador los tenga disponibles. De lo contrario, durante la partida, el jugador tendría ventaja, ya que no vería los objetos y la persona que se esconda detrás o dentro de ellos sería visible.
 
-> ### ANTI-HITBOX
-AT THE MOMENT IT IS ON PRINT WHEN A PLAYER HAS MODIFIED HITBOXES (YOU HAVE TO PLUG IN THE BAN YOURSELF)
-#
+Archivos META:
+El resto de los archivos. Solo subimos aquellos que pueden dañar el servidor. Por ejemplo, si un jugador sube un efecto de cabeza en llamas, no solo se verá en su posición, sino que, al tenerlo, todo el servidor podrá ver el interior en llamas o cualquier otro efecto no deseado.
