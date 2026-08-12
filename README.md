@@ -32,5 +32,3 @@ Anti-eliminación de arbustos, árboles y cactus - En Citizen, se pueden elimina
 
 Archivos META:
 El resto de los archivos. Solo subimos aquellos que pueden dañar el servidor. Por ejemplo, si un jugador sube un efecto de cabeza en llamas, no solo se verá en su posición, sino que, al tenerlo, todo el servidor podrá ver el interior en llamas o cualquier otro efecto no deseado.
-
-Descargar:
