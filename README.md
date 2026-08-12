@@ -1,14 +1,24 @@
 Características:
 ► Efecto anti-disparos a la cabeza
+
 ► Efecto anti-muerte
+
 ► Efecto anti-sangre
+
 ► Anti-hitbox ampliado
+
 ► Anti-eliminación de agua
+
 ► Anti-eliminación de arbustos, árboles y cactus
+
 ► Anti-modificador de daño
+
 ► Anti-clima
+
 ► Anti-día y noche
+
 Descripción detallada:
+
 Dado que algunos jugadores han descubierto la posibilidad de modificar los archivos del juego para obtener ventajas, por ejemplo, en un tiroteo, como un efecto de muerte tipo rayos X o la visión diurna cuando los demás jugadores tienen visión nocturna, esto les proporciona una ventaja de visibilidad.
 
 Por eso hemos creado un bloqueo para este tipo de actividad, para evitar trampas "legales".
